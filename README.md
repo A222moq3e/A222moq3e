@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me moq3e2000@gamil.com
 
-I work in Angular framewor
+I work in Angular framework, and I have works you can check in github.
