@@ -5,4 +5,4 @@
 - 📫 How to reach me moq3e2000@gamil.com
 
 I work in Angular framework, and I have works you can check in github.
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/a222)
+
