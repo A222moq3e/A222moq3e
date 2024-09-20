@@ -1,9 +1,9 @@
 <h2> Hi, I'm A222 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
+![Static Badge](https://img.shields.io/badge/PS%3E-%24A222Profile-blue)
+
 - 👀 I’m interested in Web Devolpment and Pentesting
 - 🌱 I’m currently learning Cryptography
-- 📫 How to reach me moq3e2000@gamil.com
-- My Personal Website: [https://a222ghoul.com/](https://a222ghoul.com/)
 
 ### Contact me:
 
