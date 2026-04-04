@@ -22,5 +22,5 @@
 
 ---
 
-### 📈 Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A222moq3e&theme=github-compact" alt="Activity Graph" />
+### Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A222moq3e&theme=react-dark&custom_title='.'" alt="Activity Graph" />
